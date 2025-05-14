@@ -1,5 +1,5 @@
-numpy>=1.20.0
-matplotlib>=3.8.0
-tensorflow>=2.10.0
-Pillow>=9.0.0
-streamlit>=1.15.0
+numpy==1.26.4
+matplotlib==3.8.4
+tensorflow==2.15.0
+Pillow==10.3.0
+google-colab==1.0.0
