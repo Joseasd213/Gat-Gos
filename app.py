@@ -38,4 +38,3 @@ else:
         except UnidentifiedImageError:
             st.error("❌ No s'ha pogut llegir la imatge. Si us plau, puja un arxiu .jpg o .png vàlid.")
 
-
